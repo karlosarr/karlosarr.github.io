@@ -18,4 +18,5 @@
   - [Kubernetes](/#)
   - [Helm Charts](/#)
 - **Links**
-- [Credits](https://github.com/karlosarr)
+- [Github](https://github.com/karlosarr)
+- [Linkedin](https://www.linkedin.com/in/karlosarr)

@@ -18,7 +18,9 @@ No compartimos información personal de los usuarios con terceros, ya que no rec
 
 ## Seguridad
 
+
 En karlosarr, nos tomamos muy en serio la seguridad de la información de nuestros usuarios. Implementamos medidas de seguridad para proteger cualquier información que se pueda recopilar accidentalmente. Sin embargo, como no recopilamos información personal de los usuarios, no hay datos sensibles que proteger.
+
 
 ## Cambios en la Política de Privacidad
 
@@ -26,7 +28,9 @@ Podemos actualizar nuestra Política de Privacidad de vez en cuando. Cualquier c
 
 ## Contacto
 
+
 Si tienes alguna pregunta sobre esta Política de Privacidad, contáctanos en hi@karlosarr.dev.
+
 
 ## Aceptación de Términos
 

@@ -2,7 +2,7 @@
 
 **Última actualización:** 14 de mayo del 2024
 
-La Pokedex APP es una aplicación móvil desarrollada por [Nombre de la Empresa] para ofrecer a los usuarios información sobre diferentes Pokémon. En [Nombre de la Empresa], estamos comprometidos con la protección de la privacidad de nuestros usuarios. Esta política de privacidad describe cómo recopilamos, utilizamos y compartimos información cuando utilizas nuestra aplicación.
+La Pokedex APP es una aplicación móvil desarrollada por karlosarr. para ofrecer a los usuarios información sobre diferentes Pokémon. En karlosarr, estamos comprometidos con la protección de la privacidad de nuestros usuarios. Esta política de privacidad describe cómo recopilamos, utilizamos y compartimos información cuando utilizas nuestra aplicación.
 
 ## Información Recopilada
 
@@ -18,7 +18,9 @@ No compartimos información personal de los usuarios con terceros, ya que no rec
 
 ## Seguridad
 
-En [Nombre de la Empresa], nos tomamos muy en serio la seguridad de la información de nuestros usuarios. Implementamos medidas de seguridad para proteger cualquier información que se pueda recopilar accidentalmente. Sin embargo, como no recopilamos información personal de los usuarios, no hay datos sensibles que proteger.
+
+En karlosarr, nos tomamos muy en serio la seguridad de la información de nuestros usuarios. Implementamos medidas de seguridad para proteger cualquier información que se pueda recopilar accidentalmente. Sin embargo, como no recopilamos información personal de los usuarios, no hay datos sensibles que proteger.
+
 
 ## Cambios en la Política de Privacidad
 
@@ -26,7 +28,9 @@ Podemos actualizar nuestra Política de Privacidad de vez en cuando. Cualquier c
 
 ## Contacto
 
-Si tienes alguna pregunta sobre esta Política de Privacidad, contáctanos en [dirección de correo electrónico].
+
+Si tienes alguna pregunta sobre esta Política de Privacidad, contáctanos en hi@karlosarr.dev.
+
 
 ## Aceptación de Términos
 

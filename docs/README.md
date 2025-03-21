@@ -1,18 +1,18 @@
-# About me
+# About Me
 
-My name is Carlos, I'm from México and I'm an SRE.
+Hello! My name is Carlos, and I'm an SRE (Site Reliability Engineer) from México.
 
 ## Hola 👋
 
-My name is Carlos, I'm from México and I'm an SRE.
+I'm passionate about building reliable systems and solving complex infrastructure challenges.
 
 <!--* Currently working for [@hyphametrics](https://www.hyphametrics.com/) as a Staff SRE-->
 
 # Skills
 
-* Using Kubernetes in Production since 2020
-* Google Cloud, Azure, Jenkins, Azure DevOps  :) 
-* Some NodeJS coding
+* **Kubernetes**: Managing production environments since 2020.
+* **Cloud Platforms**: Expertise in Google Cloud and Azure.
+* **CI/CD**: Proficient with Jenkins and Azure DevOps.
+* **Programming**: Experience with Node.js development.
 
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karlosarr/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/karlosarr/)

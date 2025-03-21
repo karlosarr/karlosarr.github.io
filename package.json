@@ -7,8 +7,8 @@
   "license": "MIT",
   "private": false,
   "engines": {
-    "node": ">=18.17.0",
-    "npm": ">=9.6.7"
+    "node": ">=22.14.0",
+    "npm": ">=10.9.2"
   },
   "repository": {
     "type": "git",
@@ -16,10 +16,10 @@
   },
   "homepage": "https://www.karlosarr.dev",
   "devDependencies": {
-    "bun-types": "latest",
     "@commitlint/cli": "^17.7.1",
     "@commitlint/config-angular": "^17.7.0",
-    "@commitlint/config-conventional": "^17.7.0"
+    "@commitlint/config-conventional": "^17.7.0",
+    "bun-types": "latest"
   },
   "scripts": {
     "docsify:dev": "docsify serve docs --open"

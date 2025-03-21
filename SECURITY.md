@@ -1,21 +1,10 @@
 # Security Policy
 
-## Supported Versions
+If you discover a security vulnerability, please follow these steps:
 
-Use this section to tell people about which versions of your project are
-currently being supported with security updates.
+1. **Open an Issue**: Go to [GitHub Issues](https://github.com/karlosarr/karlosarr.github.io/issues) and create a new issue with details of the vulnerability.
+2. **Provide Details**: Include as much information as possible, such as steps to reproduce, potential impact, and any relevant logs or screenshots.
+3. **Response Time**: We aim to acknowledge receipt of your report within 48 hours and provide updates as we investigate.
+4. **Confidentiality**: Please do not disclose the vulnerability publicly until we have resolved it and released a fix.
 
-| Version | Supported          |
-| ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
-
-## Reporting a Vulnerability
-
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Thank you for helping us keep our project secure!

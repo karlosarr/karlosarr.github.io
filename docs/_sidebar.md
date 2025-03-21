@@ -4,15 +4,11 @@
 - [CI/CD](/cicd/cicd.md)
   - Github Actions
     - [Android](/cicd/github/android.md)
-    - [iOS](/#)
-    - [Kubernetes](/#)
-  - Azure DevOps
-    - [Android](/#)
-    - [iOS](/#)
-    - [Kubernetes](/#)
-- [Containers](/#)
+    - [iOS](/cicd/github/ios.md)
+    - [Kubernetes](/cicd/github/kubernetes.md)
+<!-- - [Containers](/#)
   - [Kubernetes](/#)
-  - [Helm Charts](/#)
+  - [Helm Charts](/#) -->
 - **Links**
 - [Github](https://github.com/karlosarr)
 - [Linkedin](https://www.linkedin.com/in/karlosarr)

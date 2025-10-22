@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/karlosarr/karlosarr.github.io/compare/v1.2.0...v1.3.0) (2025-10-22)
+
+
+### Features
+
+* **docs:** add English Android CI/CD documentation page ([#14](https://github.com/karlosarr/karlosarr.github.io/issues/14)) ([6f621d6](https://github.com/karlosarr/karlosarr.github.io/commit/6f621d658fd733b419aaebe3e055f661e76ebeae))
+
 ## [1.2.0](https://github.com/karlosarr/karlosarr.github.io/compare/v1.1.0...v1.2.0) (2025-10-22)
 
 

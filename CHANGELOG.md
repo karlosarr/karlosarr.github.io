@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/karlosarr/karlosarr.github.io/compare/v1.0.0...v1.1.0) (2025-10-22)
+
+
+### Features
+
+* **docs:** update Spanish 'about me' page ([#10](https://github.com/karlosarr/karlosarr.github.io/issues/10)) ([8c2d6bf](https://github.com/karlosarr/karlosarr.github.io/commit/8c2d6bfd8e934695215179920bb12adaa946a00a))
+
 ## 1.0.0 (2025-03-21)
 
 

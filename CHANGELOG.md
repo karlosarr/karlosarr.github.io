@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/karlosarr/karlosarr.github.io/compare/v1.3.0...v1.4.0) (2025-10-23)
+
+
+### Features
+
+* **docs:** add iOS and Kubernetes CI/CD documentation ([#16](https://github.com/karlosarr/karlosarr.github.io/issues/16)) ([8737c7f](https://github.com/karlosarr/karlosarr.github.io/commit/8737c7f527871d16f82ab6c30cbb3c4230fde73c))
+
 ## [1.3.0](https://github.com/karlosarr/karlosarr.github.io/compare/v1.2.0...v1.3.0) (2025-10-22)
 
 

@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0](https://github.com/karlosarr/karlosarr.github.io/compare/v1.4.0...v1.5.0) (2025-10-23)
+
+
+### Features
+
+* change github files ([#18](https://github.com/karlosarr/karlosarr.github.io/issues/18)) ([e1038b9](https://github.com/karlosarr/karlosarr.github.io/commit/e1038b948ccbdce3b531c3a24f8dae5dbf6dc4e0))
+
 ## [1.4.0](https://github.com/karlosarr/karlosarr.github.io/compare/v1.3.0...v1.4.0) (2025-10-23)
 
 

@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.0](https://github.com/karlosarr/karlosarr.github.io/compare/v1.5.0...v1.6.0) (2025-10-23)
+
+
+### Features
+
+* **docs:** update Kubernetes docs with GitHub Actions workflow ([#20](https://github.com/karlosarr/karlosarr.github.io/issues/20)) ([32b9086](https://github.com/karlosarr/karlosarr.github.io/commit/32b908691436385e8ed691dee3b9d953d35b9f38))
+
 ## [1.5.0](https://github.com/karlosarr/karlosarr.github.io/compare/v1.4.0...v1.5.0) (2025-10-23)
 
 

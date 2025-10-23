@@ -3,9 +3,9 @@
 - [Home](/)
 - [CI/CD](/cicd/cicd.md)
   - Github Actions
-    - [Android](/cicd/github/android.md)
-    - [iOS](/cicd/github/ios.md)
-    - [Kubernetes](/cicd/github/kubernetes.md)
+    - [Android](/cicd/android.md)
+    - [iOS](/cicd/ios.md)
+    - [Kubernetes](/cicd/kubernetes.md)
 <!-- - [Containers](/#)
   - [Kubernetes](/#)
   - [Helm Charts](/#) -->

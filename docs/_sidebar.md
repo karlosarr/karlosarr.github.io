@@ -3,7 +3,7 @@
 - [Home](/)
 - [CI/CD](/cicd/cicd.md)
   - Github Actions
-    - [Android](/cicd/android.md)
+    - [Android](/cicd/github/android.md)
     - [iOS](/cicd/github/ios.md)
     - [Kubernetes](/cicd/github/kubernetes.md)
 - **Links**

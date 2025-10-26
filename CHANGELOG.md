@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.6.1](https://github.com/karlosarr/karlosarr.github.io/compare/v1.6.0...v1.6.1) (2025-10-26)
+
+
+### Bug Fixes
+
+* fix link ([#22](https://github.com/karlosarr/karlosarr.github.io/issues/22)) ([2d80ca3](https://github.com/karlosarr/karlosarr.github.io/commit/2d80ca3f563b14f305beef68f5341951e14e74c8))
+
 ## [1.6.0](https://github.com/karlosarr/karlosarr.github.io/compare/v1.5.0...v1.6.0) (2025-10-23)
 
 

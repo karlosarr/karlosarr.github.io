@@ -5,6 +5,7 @@
 
 ### Features
 
+* Add Kubernetes and Helm documentation ([#27](https://github.com/karlosarr/karlosarr.github.io/issues/27)) ([ca65d3b](https://github.com/karlosarr/karlosarr.github.io/commit/ca65d3bfdbd9e81cc35d5e75079cd3b81e0a0f1c))
 * **docs:** add Jenkins and Azure DevOps documentation ([#25](https://github.com/karlosarr/karlosarr.github.io/issues/25)) ([b5dd3b9](https://github.com/karlosarr/karlosarr.github.io/commit/b5dd3b9f6f5ea7bca0c52cf00e75d80d4313f2e2))
 
 ## [1.6.1](https://github.com/karlosarr/karlosarr.github.io/compare/v1.6.0...v1.6.1) (2025-10-26)

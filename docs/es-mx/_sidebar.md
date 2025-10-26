@@ -1,19 +1,17 @@
 <!-- markdownlint-disable-next-line first-line-heading -->
 
 - [Home](/)
-- [CI/CD](/cicd/cicd.md)
+- [CI/CD](/es-mx/cicd/cicd.md)
   - Github Actions
-    - [Android](/cicd/github/android.md)
-    - [iOS](/#)
-    - [Kubernetes](/#)
+    - [Android](/es-mx/cicd/android.md)
+    - [iOS](/es-mx/cicd/ios.md)
+    - [Kubernetes](/es-mx/cicd/kubernetes.md)
   - Azure DevOps
-    - [Android](/#)
-    - [iOS](/#)
+    - [Android](/es-mx/cicd/azure-devops/azure-devops.md)
+    - [iOS](/es-mx/cicd/azure-devops/azure-devops.md)
     - [Kubernetes](/#)
   - Jenkins
-    - [Android](/#)
-    - [iOS](/#)
-    - [Kubernetes](/#)
+    - [Visual Studio](/es-mx/cicd/jenkins/jenkins.md)
 - [Containers](/#)
   - [Kubernetes](/#)
   - [Helm Charts](/#)

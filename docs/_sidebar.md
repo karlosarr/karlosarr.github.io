@@ -6,6 +6,15 @@
     - [Android](/cicd/github/android.md)
     - [iOS](/cicd/github/ios.md)
     - [Kubernetes](/cicd/github/kubernetes.md)
+  - Azure DevOps
+    - [Android](/cicd/azure-devops/azure-devops.md)
+    - [iOS](/cicd/azure-devops/azure-devops.md)
+    - [Kubernetes](/#)
+  - Jenkins
+    - [Visual Studio](/cicd/jenkins/jenkins.md)
+- [Containers](/#)
+  - [Kubernetes](/#)
+  - [Helm Charts](/#)
 - **Links**
 - [Github](https://github.com/karlosarr)
 - [Linkedin](https://www.linkedin.com/in/karlosarr)

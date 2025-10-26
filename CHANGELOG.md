@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.7.0](https://github.com/karlosarr/karlosarr.github.io/compare/v1.6.1...v1.7.0) (2025-10-26)
+
+
+### Features
+
+* **docs:** add Jenkins and Azure DevOps documentation ([#25](https://github.com/karlosarr/karlosarr.github.io/issues/25)) ([b5dd3b9](https://github.com/karlosarr/karlosarr.github.io/commit/b5dd3b9f6f5ea7bca0c52cf00e75d80d4313f2e2))
+
 ## [1.6.1](https://github.com/karlosarr/karlosarr.github.io/compare/v1.6.0...v1.6.1) (2025-10-26)
 
 

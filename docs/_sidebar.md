@@ -12,9 +12,9 @@
     - [Kubernetes](/#)
   - Jenkins
     - [Visual Studio](/cicd/jenkins/jenkins.md)
-- [Containers](/#)
-  - [Kubernetes](/#)
-  - [Helm Charts](/#)
+- Containers
+  - [Kubernetes](/containers/kubernetes/deployments.md)
+  - [Helm Charts](/containers/helm/charts.md)
 - **Links**
 - [Github](https://github.com/karlosarr)
 - [Linkedin](https://www.linkedin.com/in/karlosarr)

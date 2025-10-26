@@ -1,10 +1,10 @@
-# CI/CD Deployment for iOS
+# Despliegue CI/CD para iOS
 
-This document describes the GitHub Actions workflow to build and analyze an iOS application.
+Este documento describe el flujo de trabajo de GitHub Actions para construir y analizar una aplicación de iOS.
 
-## Workflow Trigger
+## Disparador del Flujo de Trabajo
 
-The workflow is automatically triggered on every `push` to the `main` branch and on every `pull request` to it.
+El flujo de trabajo se activa automáticamente en cada `push` a la rama `main` y en cada `pull request` a la misma.
 
 ```yaml
 on:
@@ -14,13 +14,13 @@ on:
     branches: [ "main" ]
 ```
 
-## Workflow Steps
+## Pasos del Flujo de Trabajo
 
-### 1. Environment Setup
+### 1. Configuración del Entorno
 
-- **Checkout Code:** Downloads the repository's source code.
-- **Pod Installation:** Installs CocoaPods dependencies.
-- **Environment Information:** Displays the macOS version and hardware the workflow is running on.
+- **Checkout del Código:** Descarga el código fuente del repositorio.
+- **Instalación de Pods:** Instala las dependencias de CocoaPods.
+- **Información del Entorno:** Muestra la versión de macOS y el hardware en el que se está ejecutando el flujo de trabajo.
 
 ```yaml
 - name: Checkout
@@ -33,9 +33,9 @@ on:
     system_profiler SPSoftwareDataType SPHardwareDataType
 ```
 
-### 2. Xcode Scheme Selection
+### 2. Selección del Esquema de Xcode
 
-Determines and selects the default Xcode scheme for the build.
+Determina y selecciona el esquema de Xcode por defecto para la compilación.
 
 ```yaml
 - name: Set Default Scheme
@@ -46,9 +46,9 @@ Determines and selects the default Xcode scheme for the build.
     echo Using default scheme: $default
 ```
 
-### 3. Build
+### 3. Compilación
 
-Builds the Xcode project using the selected scheme. The build is performed without code signing.
+Compila el proyecto de Xcode utilizando el esquema seleccionado. La compilación se realiza sin firma de código.
 
 ```yaml
 - name: Build

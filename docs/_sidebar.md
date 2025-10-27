@@ -6,6 +6,7 @@
     - [Android](/cicd/github/android.md)
     - [iOS](/cicd/github/ios.md)
     - [Kubernetes](/cicd/github/kubernetes.md)
+    - [Release Please](/cicd/github/release-please.md)
   - Azure DevOps
     - [Android](/cicd/azure-devops/azure-devops.md)
     - [iOS](/cicd/azure-devops/azure-devops.md)

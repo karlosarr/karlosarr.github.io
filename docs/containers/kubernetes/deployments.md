@@ -39,3 +39,62 @@ kubectl apply -f nginx-deployment.yaml
 ```
 
 This will create a deployment named `nginx-deployment` with three replicas of the `nginx` pod.
+
+## Deployments with Volumes
+
+You can also use volumes to store persistent data. This example shows how to mount a `PersistentVolumeClaim` to a deployment.
+
+```yaml
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: minecraft
+  labels:
+    app: minecraft
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: minecraft
+  template:
+    metadata:
+      labels:
+        app: minecraft
+    spec:
+      containers:
+      - name: minecraft
+        image: openhack/minecraft-server:2.0
+        ports:
+        - containerPort: 25565
+          name: tcp-port
+        - containerPort: 19132
+          name: udp-port
+        volumeMounts:
+        - name: disk
+          mountPath: /data
+      volumes:
+      - name: disk
+        persistentVolumeClaim:
+          claimName: minecraft-pvc
+```
+
+## Horizontal Pod Autoscaler (HPA)
+
+The Horizontal Pod Autoscaler automatically scales the number of pods in a replication controller, deployment, replica set or stateful set based on observed CPU utilization.
+
+Here is an example of an HPA that targets the `nginx-deployment` and scales the number of replicas between 3 and 10 based on a target CPU utilization of 80%.
+
+```yaml
+apiVersion: autoscaling/v1
+kind: HorizontalPodAutoscaler
+metadata:
+  name: nginx-hpa
+spec:
+  scaleTargetRef:
+    apiVersion: apps/v1
+    kind: Deployment
+    name: nginx-deployment
+  minReplicas: 3
+  maxReplicas: 10
+  targetCPUUtilizationPercentage: 80
+```

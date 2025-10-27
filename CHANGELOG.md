@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.8.0](https://github.com/karlosarr/karlosarr.github.io/compare/v1.7.0...v1.8.0) (2025-10-27)
+
+
+### Features
+
+* Add Kubernetes and Helm documentation ([#29](https://github.com/karlosarr/karlosarr.github.io/issues/29)) ([f95281c](https://github.com/karlosarr/karlosarr.github.io/commit/f95281ca38bc57978a9930257064fe80502f9dc8))
+
 ## [1.7.0](https://github.com/karlosarr/karlosarr.github.io/compare/v1.6.1...v1.7.0) (2025-10-26)
 
 

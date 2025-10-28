@@ -21,6 +21,19 @@ Este repositorio es mi sitio web personal, construido con **Docsify**. La caract
 
 ## 🧪 Cómo Probar los Cambios
 
+Además de la verificación visual, el repositorio incluye una prueba de "humo" para detectar enlaces rotos comunes en la barra lateral.
+
+### Prueba de Humo de Enlaces Rotos
+
+Esta prueba analiza los archivos `_sidebar.md` para asegurar que no contengan enlaces que apunten a `/#`.
+
+-   **Ejecutar la prueba:**
+    ```bash
+    python test_links.py
+    ```
+
+### Verificación Visual
+
 Este es un proyecto visual, por lo que las "pruebas" consisten en verificar que el sitio se vea bien.
 
 1.  **Instalar dependencias (si no lo has hecho):**

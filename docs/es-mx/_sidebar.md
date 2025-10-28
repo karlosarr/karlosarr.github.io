@@ -10,7 +10,7 @@
   - Azure DevOps
     - [Android](/es-mx/cicd/azure-devops/azure-devops.md)
     - [iOS](/es-mx/cicd/azure-devops/azure-devops.md)
-    - [Kubernetes](/#)
+    - [Kubernetes](/es-mx/cicd/azure-devops/kubernetes.md)
   - Jenkins
     - [Visual Studio](/es-mx/cicd/jenkins/jenkins.md)
 - Contenedores

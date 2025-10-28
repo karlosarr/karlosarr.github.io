@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.8.1](https://github.com/karlosarr/karlosarr.github.io/compare/v1.8.0...v1.8.1) (2025-10-28)
+
+
+### Bug Fixes
+
+* **docs:** Corregir enlaces rotos en la barra lateral y añadir prueba de humo ([#32](https://github.com/karlosarr/karlosarr.github.io/issues/32)) ([cd969af](https://github.com/karlosarr/karlosarr.github.io/commit/cd969afa31321958dbc2ca6dbf7467d8cd99f3c9))
+
 ## [1.8.0](https://github.com/karlosarr/karlosarr.github.io/compare/v1.7.0...v1.8.0) (2025-10-27)
 
 

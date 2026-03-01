@@ -23,7 +23,8 @@
   },
   "scripts": {
     "docsify:dev": "docsify serve docs --open",
-    "test": "node --test test/*.test.js"
+    "test": "node --test test/*.test.js",
+    "test:coverage": "node --experimental-test-coverage --test-reporter=lcov --test-reporter-destination=coverage/lcov.info test/*.test.js"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"

@@ -1,0 +1,6 @@
+claude:
+ enabled: true
+ trigger_phrases:
+   - "@claude fix this"
+   - "@claude review"
+ max_tokens: 2000

@@ -22,7 +22,8 @@
     "bun-types": "latest"
   },
   "scripts": {
-    "docsify:dev": "docsify serve docs --open"
+    "docsify:dev": "docsify serve docs --open",
+    "test": "node --test test/*.test.js"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"

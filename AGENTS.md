@@ -97,4 +97,5 @@ Para mantener el historial limpio e interpretarlo correctamente, debes seguir es
   8.  Evita cambios no relacionados en archivos de bloqueo como `package-lock.json` y reviértelos antes de enviar el trabajo.
 
 - **Pruebas Unitarias Obligatorias:** Ejecuta las pruebas unitarias (`npm test`) rigurosamente antes de enviar tu código, asegurándote de que no se han introducido enlaces rotos y que el comportamiento general sea el adecuado cada vez que utilices o agregues scripts al repositorio.
+- **Validación de Código (CodeQL y SonarCloud):** Es obligatorio revisar y corregir cualquier issue, advertencia o "code smell" reportado por herramientas de análisis estático como CodeQL y SonarCloud en el proyecto. Debes asegurarte de escribir código seguro y limpio siguiendo las mejores prácticas recomendadas por estas herramientas.
 - **Documentación Viva:** Cualquier característica nueva, script o cambio significativo en la arquitectura que agregues o modifiques, **debe** reflejarse con una actualización correspondiente en el archivo `README.md` (o equivalente, si aplica).

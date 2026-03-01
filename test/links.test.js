@@ -13,7 +13,7 @@ test('Sidebar files should not contain broken links', () => {
       const content = readFileSync(fullPath, 'utf-8');
 
       // Look for markdown links pointing to /#
-      const brokenLinksMatch = content.match(/\[(.*?)\]\(\/\#\)/g);
+      const brokenLinksMatch = content.match(/\[(.*?)\]\(\/#\)/g);
 
       if (brokenLinksMatch) {
         errors.push(`Found broken links in ${filepath}: ${brokenLinksMatch.join(', ')}`);

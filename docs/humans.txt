@@ -1,7 +1,7 @@
 /* TEAM */
   Developer: Carlos Adolfo Ruiz Rodríguez
-  Contact: hi@karlosarr.dev
   Site: https://www.karlosarr.dev
+  Github: https://github.com/karlosarr
 
 /* SITE */
   Last update: 2025

@@ -1,0 +1,9 @@
+/* TEAM */
+  Developer: Carlos Adolfo Ruiz Rodríguez
+  Contact: hi@karlosarr.dev
+  Site: https://www.karlosarr.dev
+
+/* SITE */
+  Last update: 2025
+  Language: English, Spanish
+  Components: Docsify, GitHub Pages

@@ -28,7 +28,7 @@ Este es un proyecto de documentación personal construido con **Docsify**. Está
 │   └── README.md         # Página principal en español
 ├── AGENTS.md             # Instrucciones y contexto para asistentes de IA (este archivo)
 ├── package.json          # Dependencias y scripts del proyecto (npm/Node)
-└── test_links.py         # Script para probar enlaces rotos en las barras laterales
+└── test/                 # Pruebas unitarias nativas (node:test) de validación continua
 ```
 
 ### Buenas Prácticas de Estructura de Proyecto (Docsify Bilingüe)
@@ -57,7 +57,7 @@ Este es un proyecto de documentación personal construido con **Docsify**. Está
 
 - **Instalar Dependencias:** `npm install -g docsify-cli` (necesario globalmente para el servidor de desarrollo).
 - **Desarrollo:** `npm run docsify:dev` (o `docsify serve docs` para ejecución sin interfaz/headless, evitando el flag `--open`). Nota: el servidor local puede tener un retraso de inicio; los scripts automatizados como Playwright deben incluir un breve período de espera (ej. 5 segundos) antes de intentar acceder al servidor.
-- **Pruebas de Humo:** `python test_links.py` (comprueba si hay enlaces de marcador de posición rotos `/#` en los archivos de la barra lateral).
+- **Pruebas Unitarias:** `npm test` ejecuta las pruebas nativas de Node.js (comprueba si hay enlaces de marcador de posición rotos `/#` en los archivos de la barra lateral).
 
 ## Flujo de Trabajo y Convenciones (Git)
 
@@ -96,5 +96,5 @@ Para mantener el historial limpio e interpretarlo correctamente, debes seguir es
   7.  No confirmes archivos de registro (logs) en el repositorio (ej. `docsify.log`).
   8.  Evita cambios no relacionados en archivos de bloqueo como `package-lock.json` y reviértelos antes de enviar el trabajo.
 
-- **Pruebas Estáticas:** Ejecuta la prueba de "humo" de enlaces rotos (`python test_links.py`) siempre que modifiques las barras laterales.
+- **Pruebas Unitarias Obligatorias:** Ejecuta las pruebas unitarias (`npm test`) rigurosamente antes de enviar tu código, asegurándote de que no se han introducido enlaces rotos y que el comportamiento general sea el adecuado cada vez que utilices o agregues scripts al repositorio.
 - **Documentación Viva:** Cualquier característica nueva, script o cambio significativo en la arquitectura que agregues o modifiques, **debe** reflejarse con una actualización correspondiente en el archivo `README.md` (o equivalente, si aplica).

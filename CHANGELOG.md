@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.10.0](https://github.com/karlosarr/karlosarr.github.io/compare/v1.9.0...v1.10.0) (2026-03-02)
+
+
+### Features
+
+* add github pages deployment documentation ([#43](https://github.com/karlosarr/karlosarr.github.io/issues/43)) ([44199cc](https://github.com/karlosarr/karlosarr.github.io/commit/44199ccb61a5a17134d78b9e89552e95bbc8a47f))
+
 ## [1.9.0](https://github.com/karlosarr/karlosarr.github.io/compare/v1.8.1...v1.9.0) (2026-03-02)
 
 

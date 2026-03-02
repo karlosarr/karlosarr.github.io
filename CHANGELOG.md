@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.9.0](https://github.com/karlosarr/karlosarr.github.io/compare/v1.8.1...v1.9.0) (2026-03-02)
+
+
+### Features
+
+* **devops:** update security and metadata files, add ci workflow ([#41](https://github.com/karlosarr/karlosarr.github.io/issues/41)) ([1f08491](https://github.com/karlosarr/karlosarr.github.io/commit/1f0849138f7561f0e29ee8b66c784d8f5b4e404e))
+
 ## [1.8.1](https://github.com/karlosarr/karlosarr.github.io/compare/v1.8.0...v1.8.1) (2025-10-28)
 
 

@@ -1,6 +1,6 @@
 {
   "name": "karlosarr.github.io",
-  "version": "1.8.1",
+  "version": "1.9.0",
   "module": "index.ts",
   "type": "module",
   "author": "Carlos Adolfo Ruiz Rodríguez <hi@karlosarr.dev> (https://www.karlosarr.dev)",

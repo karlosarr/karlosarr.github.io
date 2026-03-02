@@ -1,9 +1,8 @@
 import { test } from 'node:test';
 import assert from 'node:assert';
-import '../index.ts';
+import { greet } from '../index.ts';
 
-test('index file loads without errors', () => {
-  // Simple test to ensure index.ts can be parsed and executed by Node.js
-  // and therefore its coverage is tracked in lcov.info.
-  assert.ok(true, 'index.ts loaded successfully');
+test('index file loads without errors and greets', () => {
+  const result = greet("Jules");
+  assert.strictEqual(result, "Hello Jules via Bun!", 'index.ts loaded and functioned successfully');
 });

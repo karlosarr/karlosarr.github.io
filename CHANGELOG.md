@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.10.1](https://github.com/karlosarr/karlosarr.github.io/compare/v1.10.0...v1.10.1) (2026-03-02)
+
+
+### Performance Improvements
+
+* improve accessibility and performance of docsify site ([#45](https://github.com/karlosarr/karlosarr.github.io/issues/45)) ([cfedc4e](https://github.com/karlosarr/karlosarr.github.io/commit/cfedc4e7914d7e7cfb15d5e3c846a8c49a3c1656))
+
 ## [1.10.0](https://github.com/karlosarr/karlosarr.github.io/compare/v1.9.0...v1.10.0) (2026-03-02)
 
 

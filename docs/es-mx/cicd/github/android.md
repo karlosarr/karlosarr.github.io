@@ -99,3 +99,7 @@ Sube el AAB firmado como un artefacto del flujo de trabajo para que pueda ser de
     name: Signed app bundle
     path: ${{steps.sign_app.outputs.signedReleaseFile}}
 ```
+
+## Repositorio de Ejemplo
+
+Puedes encontrar un ejemplo completo de este flujo de trabajo en el repositorio [karlosarr/pokedexapp](https://github.com/karlosarr/pokedexapp).

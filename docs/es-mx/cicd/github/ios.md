@@ -60,3 +60,7 @@ Compila el proyecto de Xcode utilizando el esquema seleccionado. La compilación
     file_to_build=`echo $file_to_build | awk '{$1=$1;print}'`
     xcodebuild clean build -workspace SwiftAppiOS.xcworkspace -scheme SwiftAppiOS -configuration Release -sdk 'iphoneos' CODE_SIGNING_ALLOWED=NO | xcpretty && exit ${PIPESTATUS[0]}
 ```
+
+## Repositorio de Ejemplo
+
+Puedes encontrar un ejemplo completo de este flujo de trabajo en el repositorio [karlosarr/pokedexapp](https://github.com/karlosarr/pokedexapp).

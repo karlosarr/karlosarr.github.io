@@ -60,3 +60,7 @@ Builds the Xcode project using the selected scheme. The build is performed witho
     file_to_build=`echo $file_to_build | awk '{$1=$1;print}'`
     xcodebuild clean build -workspace SwiftAppiOS.xcworkspace -scheme SwiftAppiOS -configuration Release -sdk 'iphoneos' CODE_SIGNING_ALLOWED=NO | xcpretty && exit ${PIPESTATUS[0]}
 ```
+
+## Example Repository
+
+A complete example of this workflow can be found in the [karlosarr/pokedexapp](https://github.com/karlosarr/pokedexapp) repository.

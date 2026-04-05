@@ -99,3 +99,7 @@ Uploads the signed AAB as a workflow artifact so it can be downloaded.
     name: Signed app bundle
     path: ${{steps.sign_app.outputs.signedReleaseFile}}
 ```
+
+## Example Repository
+
+A complete example of this workflow can be found in the [karlosarr/pokedexapp](https://github.com/karlosarr/pokedexapp) repository.

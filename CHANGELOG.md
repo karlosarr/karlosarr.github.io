@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.11.0](https://github.com/karlosarr/karlosarr.github.io/compare/v1.10.1...v1.11.0) (2026-04-17)
+
+
+### Features
+
+* Actualizar README.md ([0d49004](https://github.com/karlosarr/karlosarr.github.io/commit/0d490043cc4c9d7c588d2be76f7fff91bf380377))
+* Create deploy-gh-pages.yml ([#50](https://github.com/karlosarr/karlosarr.github.io/issues/50)) ([c4f53ef](https://github.com/karlosarr/karlosarr.github.io/commit/c4f53effec358997ade3982da63ff9e021fee941))
+* Update README.md ([d8831ec](https://github.com/karlosarr/karlosarr.github.io/commit/d8831ec5a586c614f5e6e3643b987466d92c2154))
+* Update README.md ([#51](https://github.com/karlosarr/karlosarr.github.io/issues/51)) ([ba024e5](https://github.com/karlosarr/karlosarr.github.io/commit/ba024e595d62cf23923600ec42d928e2370a686d))
+
 ## [1.10.1](https://github.com/karlosarr/karlosarr.github.io/compare/v1.10.0...v1.10.1) (2026-03-02)
 
 
